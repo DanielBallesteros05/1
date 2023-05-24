@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Catalogo de Tienda</string>
+    <string name="tienda_title_hint">Enter a title for the store.</string>
+    <string name="tienda_title_label">Title</string>
+    <string name="tienda_details_label">Details</string>
+    <string name="tienda_solved_label">Solved</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="store_title_hint" />
+
+</resources>
